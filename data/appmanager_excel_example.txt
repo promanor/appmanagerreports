@@ -1,0 +1,12 @@
+http://appmanager/AppManager/json/GetDowntimeDetails?apikey=e7809b7a69757632d773572dd049aeac&period=11&resourceid=10001047&showFullDetails=false
+
+{u'response-code': u'4000', u'response': {u'result': [{u
+'UnmanagePercent': u'0.0',
+ u'DisplayName': u'Jira Centennial Customer Support Site',
+   u'AvailabilitySeverity': u'-',
+   u'ResourceId': u'10016633',
+   u'DownPercent': u'0.14',
+   u'Period': u'11',
+   u'SchedulePercent': u'0.0',
+   u'AvailabilityMessage': u'-',
+   u'UpPercent': u'99.86'}], u'uri': u'/AppManager/json/GetDowntimeDetails'}}
